@@ -1,0 +1,39 @@
+<template>
+    <div class="container">
+      <navbar></navbar>
+      <!-- Mobile Menu -->
+      <div class="mobile-menu hidden" id="menu"></div>
+      <!-- Box A -->
+      <section class="box box-a bg-primary text-center py-md"></section>
+      <!-- Box B -->
+      <section class="box box-b bg-secondary grid-col-2"></section>
+      <!-- Box C  -->
+      <section class="box box-c bg-secondary grid-col-2 grid-reversed"></section>
+      <!-- Box D  -->
+      <section class="box box-d bg-primary grid-col-2 grid-col-2"></section>
+      <!-- Box E  -->
+      <section class="box box-e bg-secondary grid-col-2 grid-reversed"></section>
+      <!-- Box F  -->
+      <section class="box box-f grid-col-2"></section>
+      
+      <div class="divider"></div>
+
+      <footer class="footer"></footer>
+    </div>
+</template>
+
+<script>
+import navbar from './Navbar.vue'
+export default {
+  components: { navbar },
+  name: 'Starbucks',
+  props: {
+    msg: String
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped src="../assets/styles/variable.css">
+
+</style>
