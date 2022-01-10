@@ -105,8 +105,6 @@ section a {
   margin: 0 5px;
 }
 
-
-
 /* Buttons */
 .btn {
   cursor: pointer;
@@ -142,4 +140,25 @@ section a {
 
 .btn-dark:hover {
   background-color: #333;
+}
+
+/* Backgrounds */
+.bg-primary{
+  background-color: #006241;
+  color: #fff;
+}
+
+
+
+/* Text Styling */
+.text-center {
+  text-align: center;
+}
+
+.text-xl {
+  font-size: 50px;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  font-weight: 600;
+  margin-bottom: 20px;
 }

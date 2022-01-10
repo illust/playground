@@ -4,7 +4,15 @@
       <!-- Mobile Menu -->
       <div class="mobile-menu hidden" id="menu"></div>
       <!-- Box A -->
-      <section class="box box-a bg-primary text-center py-md"></section>
+      <section class="box box-a bg-primary text-center py-md">
+        <div class="box-inner">
+          <h2 class="text-xl">Jingle all the ways to free favorites</h2>
+          <p class="text-md">
+            Join StarBucks Rewards for delicious deals & exclusive offers.
+            <a href="#">Learn more</a> 
+          </p>
+        </div>
+      </section>
       <!-- Box B -->
       <section class="box box-b bg-secondary grid-col-2"></section>
       <!-- Box C  -->
