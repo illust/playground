@@ -14,7 +14,16 @@
         </div>
       </section>
       <!-- Box B -->
-      <section class="box box-b bg-secondary grid-col-2"></section>
+      <section class="box box-b bg-secondary grid-col-2">
+        <img src="../assets/box-b.png" alt="" />
+        <div class="box-text">
+          <h2 class="text-xl">New to the nice list</h2>
+          <p class="text-md">For a nondairy twist on a holiday cookie classic,
+            try the new Iced Sugar Cookie Almondmilk Latte.
+          </p>
+          <a href="#" class="btn btn-light-outline">Order Now</a>
+        </div>
+      </section>
       <!-- Box C  -->
       <section class="box box-c bg-secondary grid-col-2 grid-reversed"></section>
       <!-- Box D  -->
@@ -42,6 +51,6 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped src="../assets/styles/variable.css">
+<style src="../assets/styles/variable.css">
 
 </style>
