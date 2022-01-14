@@ -141,6 +141,10 @@ section a {
   justify-content: space-between;
 }
 
+.grid-reversed :first-child{
+  order:2;
+}
+
 /* Buttons */
 .btn {
   cursor: pointer;

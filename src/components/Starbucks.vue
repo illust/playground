@@ -1,8 +1,10 @@
 <template>
     <div class="container">
       <navbar></navbar>
+      
       <!-- Mobile Menu -->
       <div class="mobile-menu hidden" id="menu"></div>
+
       <!-- Box A -->
       <section class="box box-a bg-primary text-center py-md">
         <div class="box-inner">
@@ -13,6 +15,7 @@
           </p>
         </div>
       </section>
+
       <!-- Box B -->
       <section class="box box-b bg-secondary grid-col-2">
         <img src="../assets/box-b.png" alt="" />
@@ -24,10 +27,32 @@
           <a href="#" class="btn btn-light-outline">Order Now</a>
         </div>
       </section>
+
       <!-- Box C  -->
-      <section class="box box-c bg-secondary grid-col-2 grid-reversed"></section>
+      <section class="box box-c bg-secondary grid-col-2 grid-reversed">
+        <img src="../assets/box-c.png" alt=""/>
+        <div class="box-text">
+          <h2 class="text-xl">Merry monent</h2>
+          <p class="text-md">
+            Treat yourself to a festive Sugar Plum Cheese Danish with a nicely
+            spiced sugar-plum spread.
+          </p>
+          <a href="#" class="btn btn-light-outline">Order Now</a>
+        </div>
+      </section>
+
       <!-- Box D  -->
-      <section class="box box-d bg-primary grid-col-2 grid-col-2"></section>
+      <section class="box box-d bg-primary grid-col-2 grid-col-2">
+        <img src="../assets/box-d.png" alt="">
+        <div class="box-text">
+          <h2 class="text-xl">Starbucks Thanksgiving Blend</h2>
+          <p class="text-md">
+            This elegant dark roast returns,showcasing flavors from some of the
+              world's major coffee-growing regions.
+          </p>
+          <a href="#" class="btn btn-light-outline">Order Now</a>
+        </div>
+      </section>
       <!-- Box E  -->
       <section class="box box-e bg-secondary grid-col-2 grid-reversed"></section>
       <!-- Box F  -->
