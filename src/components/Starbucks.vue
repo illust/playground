@@ -54,7 +54,18 @@
         </div>
       </section>
       <!-- Box E  -->
-      <section class="box box-e bg-secondary grid-col-2 grid-reversed"></section>
+      <section class="box box-e bg-secondary grid-col-2 grid-reversed">
+        <img src="../assets/box-e.jpg" alt="">
+        <div class="box-text">
+          <h2 class="text-md">Fighting hunger this holiday</h2>
+          <p class="text-sm">
+            Hunger is affecting millions of people across America this holiday
+            season. Join us in our commitment to hunger relief and help feed
+            neighbors in need.
+          </p>
+          <a href="#" class="btn btn-light-outline">Order Now</a>
+        </div>
+      </section>
       <!-- Box F  -->
       <section class="box box-f grid-col-2"></section>
       
