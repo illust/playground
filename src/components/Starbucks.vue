@@ -102,7 +102,7 @@
         <div class="footer-container">
           <div class="social">
             <a href="https://spotify.com" class="">
-              <img src="../assets/box-f2.jpg" alt="">
+              <img src="" alt="">
             </a>
           </div>
         </div>
