@@ -105,6 +105,11 @@
               <img src="" alt="">
             </a>
           </div>
+          <div class="social">
+            <a href="https://google.com" class="">
+              <img src="" alt="">
+            </a>
+          </div>
         </div>
       </footer>
     </div>
