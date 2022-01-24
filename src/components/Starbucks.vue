@@ -98,15 +98,7 @@
       
       <div class="divider"></div>
 
-      <footer class="footer">
-        <div class="footer-container">
-          <div class="social">
-            <a href="https://spotify.com" class="">
-              <img src="" alt="">
-            </a>
-          </div>
-        </div>
-      </footer>
+
     </div>
 </template>
 
