@@ -12,7 +12,7 @@
           <p class="text-md">
             Join StarBucks Rewards for delicious deals & exclusive offers.
             <a href="#">Learn more</a> 
-          </p>
+          </p>·
         </div>
       </section>
 
@@ -81,7 +81,7 @@
             </div>
           </div>
         </div>
-        <!-- <div>
+        <div>
           <img src="../assets/box-f2.jpg" alt="">
           <div class="bg-primary py-lg">
             <div class="box-text">
@@ -93,7 +93,7 @@
               <a href="#" class="btn btn-light-outline">Order Now</a>
             </div>
           </div>
-        </div> -->
+        </div>
       </section>
       
       <div class="divider"></div>
