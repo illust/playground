@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <Starbucks msg="Welcome to Your Vue.js App"/>
+    <Netflix msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
-import Starbucks from './components/Starbucks.vue'
+import Netflix from './components/Netflix.vue'
 
 export default {
   name: 'App',
   components: {
-    Starbucks
+    Netflix
   }
 }
 </script>
