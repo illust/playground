@@ -10,7 +10,7 @@
             <h1>See what's next</h1>
             <p>Watch anywhere. Cancel anytime</p>
             <a href="" class="btn btn-xl">
-                Watch Free for 30 Days <i class="fas fa-chevron-right btn-icon">></i>
+                Watch Free for 30 Days <i class="fas fa-chevron-right btn-icon"></i>
             </a>
         </div>
     </header>

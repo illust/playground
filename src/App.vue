@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <Netflix msg="Welcome to Your Vue.js App"/>
+    <Hulu msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
-import Netflix from './components/Netflix.vue'
+import Hulu from './components/Hulu.vue'
 
 export default {
   name: 'App',
   components: {
-    Netflix
+    Hulu
   }
 }
 </script>
