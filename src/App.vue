@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <Hulu msg="Welcome to Your Vue.js App"/>
+    <Crossword msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
-import Hulu from './components/Hulu.vue'
+import Crossword from './components/Crossword.vue'
 
 export default {
   name: 'App',
   components: {
-    Hulu
+    Crossword
   }
 }
 </script>
